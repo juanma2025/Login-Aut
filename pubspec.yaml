@@ -39,7 +39,7 @@ dependencies:
   just_audio: ^0.10.5
   audio_session: ^0.2.2
   just_audio_background: ^0.0.1-beta.17
-  riverpod: ^3.0.3
+  flutter_riverpod: ^2.5.1
   path_provider: ^2.1.5
   intl: ^0.20.2
   google_fonts: ^6.3.2
